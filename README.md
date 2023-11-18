@@ -7,7 +7,7 @@ YouTube Clone is a simplified web application built using React and the YouTube 
 - [YouTube Clone](#youtube-clone)
   - [Table of Contents](#table-of-contents)
   - [Description](#description)
-  - [Features](#features)
+  - [Features](#features) 
   - [Installation](#installation)
   - [Usage](#usage)
   - [Contributing](#contributing)
